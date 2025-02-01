@@ -1,5 +1,5 @@
 {
-  "prefix_url": "https://raw.githubusercontent.com/sbdesigns-dev/trackle-data/"
+  "prefix_url": "https://raw.githubusercontent.com/SBDesigns-dev/trackle-data/refs/heads/main/"
   "valid_line_to_achievement_ids": ["dev-proto"],
   "vaild_nonline_achievements": ["dev"],
   "achievement_data": {
