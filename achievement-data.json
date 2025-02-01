@@ -17,6 +17,13 @@
       "link_available": false,
       "link_to": ""
     },
+    "dev": {
+      "title": "Blog Author",
+      "desc": "Author for The Trackle Blog",
+      "icon": "/achievement_icons/author.png",
+      "link_available": true,
+      "link_to": "https://trackle-blog.blogspot.com"
+    },
     "sb": {
       "title": "SB Designs",
       "desc": "Work at SB Designs",
