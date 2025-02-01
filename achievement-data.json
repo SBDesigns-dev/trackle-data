@@ -1,0 +1,21 @@
+{
+  "prefix_url": "https://raw.githubusercontent.com/sbdesigns-dev/trackle-data/"
+  "valid_line_to_achievement_ids": ["dev-proto"],
+  "vaild_nonline_achievements": ["dev"],
+  "achievement_data": {
+    "dev-proto": {
+      "title": "Dev Prototype Line",
+      "desc": "Complete the Test Line for Trackle Developers.",
+      "icon": "/achievement_icons/dev-proto.png",
+      "link_available": false,
+      "link_to": "",
+    },
+    "dev": {
+      "title": "Developer",
+      "desc": "Be a Developer for Trackle",
+      "icon": "/achievement_icons/developer.png",
+      "link_available": false,
+      "link_to": "",
+    }
+  }
+}
