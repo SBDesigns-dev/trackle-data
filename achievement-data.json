@@ -16,6 +16,20 @@
       "icon": "/achievement_icons/developer.png",
       "link_available": false,
       "link_to": ""
+    },
+    "sb": {
+      "title": "SB Designs",
+      "desc": "Work at SB Designs",
+      "icon": "/achievement_icons/sb.png",
+      "link_available": true,
+      "link_to": "https://sbdesigns.pages.dev"
+    },
+    "tnt": {
+      "title": "TurquoiseTNT",
+      "desc": "Work at TurquoiseTNT",
+      "icon": "/achievement_icons/tnt.png",
+      "link_available": true,
+      "link_to": "https://turquoisetnt.one"
     }
   }
 }
